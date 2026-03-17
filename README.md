@@ -15,7 +15,7 @@ A fast-paced "Flappy Bird" style survival game built using **Python** and **Pyga
    ```bash
    pip install pygame
 
-##Controls
-SPACE: Jump / Fly
-R: Restart (after Game Over)
-ESC: Pause/Unpause
+## Controls
+* SPACE: Jump / Fly
+* R: Restart (after Game Over)
+* ESC: Pause/Unpause
